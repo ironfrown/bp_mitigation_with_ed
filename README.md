@@ -1,4 +1,4 @@
-# QNN Barren Plateaus and Effecttive Dimension
+# QNN Barren Plateaus and Effective Dimension
 This Jupyter Notebook project practices the experiment as given in the research design section in the project "BP Mitigation Strategy vs QNN Capacity to Learn" ([see Jacob Cybulski's projects](http://jacobcybulski.com/)).
 
 ## Table of contents
